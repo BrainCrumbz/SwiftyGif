@@ -166,3 +166,7 @@ iOSInjectionProject/
 
 # Swift Snapshot Testing
 __Snapshots__
+
+# Sample images
+**/Images/sample.jpg
+**/Images/15MB_Einstein_rings_zoom.gif
