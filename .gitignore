@@ -163,3 +163,6 @@ iOSInjectionProject/
 
 ### Objective-C Patch ###
 *.xcscmblueprint
+
+# Swift Snapshot Testing
+__Snapshots__
